@@ -1,12 +1,7 @@
 ﻿#include <iostream>
-#include <stdint.h>
-#include <bitset>
-#include <cstddef>
-#include <string>
 #include <windows.h>
+
 using namespace std;
-typedef bitset<32> byte32;
-typedef bitset<4> byte4;
 unsigned long Tab_Z[8][16] =
 {
  0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xA,0xB,0xC,0xD,0xE,0xF,
@@ -51,7 +46,8 @@ int main()
         key_u ^= key1;
 
     }
-    for (size_t i = 0; i < 32; i++)
+    //Тестирование на то, что ключ меняет последовательность в конце 
+    /*for (size_t i = 0; i < 32; i++)
     {
         if (i % 8 == 0) { cout << "________" << endl; }
         for (size_t j = 0; j < 4; j++)
@@ -61,7 +57,7 @@ int main()
         }
         
         cout << endl;
-    }
+    }*/
     for (size_t i = 0; i < 32; i++)
     {
 
