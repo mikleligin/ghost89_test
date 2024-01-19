@@ -1,0 +1,12 @@
+﻿  gost89byte.cpp
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(28,46): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(29,39): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(46,51): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(47,54): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(48,50): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(59,74): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(71,69): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(71,115): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(82,47): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\monke\Desktop\передача данных через лору\gost89byte\gost89byte\gost89byte.cpp(87,46): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  gost89byte.vcxproj -> C:\Users\monke\Desktop\передача данных через лору\gost89byte\x64\Debug\gost89byte.exe
